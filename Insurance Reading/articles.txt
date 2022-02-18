@@ -1,0 +1,7 @@
+https://medium.com/swlh/modeling-insurance-claim-severity-b449ac426c23
+http://www.businessandeconomics.mq.edu.au/our_departments/Applied_Finance_and_Actuarial_Studies/research/books/GLMsforInsuranceData/data_sets
+https://www.rdocumentation.org/packages/insuranceData/versions/1.0/topics/dataCar
+https://www.mdpi.com/2227-9091/9/2/42/htm
+https://towardsdatascience.com/basics-of-insurance-pricing-47243c2630b9
+https://www.scielo.br/j/bar/a/ZstcYdfp8hw3qpdDJqrdQdG/?lang=en
+https://scikit-learn.org/stable/auto_examples/linear_model/plot_tweedie_regression_insurance_claims.htmls
