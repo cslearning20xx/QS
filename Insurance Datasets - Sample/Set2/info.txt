@@ -1,0 +1,2 @@
+https://www.rdocumentation.org/packages/insuranceData/versions/1.0/topics/dataCar
+https://medium.com/swlh/modeling-insurance-claim-severity-b449ac426c23

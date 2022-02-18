@@ -1,0 +1,4 @@
+https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/data?select=train.csv
+
+595k rows
+predict claim yes/no
